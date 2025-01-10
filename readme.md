@@ -23,6 +23,9 @@ A showcase website for Sundown Studio with interactive sections and media conten
 ### Footer Section
 ![Footer Section](images/footer-section.png)
 
+![Screenshot](images/screenshot.png)
+
+
 ---
 
 ## Usage
